@@ -31,5 +31,5 @@ A password strength assessment tool that helps users evaluate the robustness of 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/password-complexity-checker.git
+git clone https://github.com/8eg4Mercy/BYTEUPRISE_CYB_01.git
 cd password-complexity-checker
